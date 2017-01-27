@@ -1,0 +1,22 @@
+/* Bake Off CSS */
+body {
+    background-color: lightblue;
+}
+div {
+	text-align: center;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+#generatorResults {
+	border: 3px solid pink;
+	display: none;
+	margin: auto;
+	width: 50%;
+}
